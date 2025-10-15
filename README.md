@@ -104,6 +104,7 @@ Open http://127.0.0.1:5000 in your browser
 ```
 
 ---
+<img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/f6c84c79-389d-4468-be42-a8cbd9333ae7" />
 
 ## 📝 How to Use
 
@@ -118,12 +119,14 @@ The tool accepts two types of input files:
 2. **Access Logs** (`.log`, `.txt`)
    - Apache or Nginx web server logs
    - Standard combined log format
+<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/589dd3c6-162e-4173-8cbc-d232b0b9429f" />
 
 ### Step 2: Analyze Traffic
 
 1. Click the **"Upload & Analyze"** button on the dashboard
 2. Select your PCAP file or access log
 3. Wait for the analysis to complete (usually takes a few seconds)
+<img width="1605" height="870" alt="image" src="https://github.com/user-attachments/assets/85bc946c-3f9e-48e9-98e6-f3bd37e25cc3" />
 
 ### Step 3: Review Alerts
 
@@ -134,6 +137,7 @@ The dashboard displays all detected threats with:
 - **URL**: The targeted endpoint
 - **Attack Type**: Classification of the threat
 - **Confidence**: How certain the system is (0-100%)
+<img width="1696" height="868" alt="image" src="https://github.com/user-attachments/assets/b3c3f70c-94a5-4678-8d7b-5989fa00dcd1" />
 
 ### Step 4: Export Results
 
@@ -142,6 +146,7 @@ Click **"Export CSV"** to download a detailed report for:
 - Compliance documentation
 - Historical analysis
 - Integration with SIEM tools
+<img width="484" height="734" alt="image" src="https://github.com/user-attachments/assets/37989043-db17-46e7-abb0-892cbeb753d3" />
 
 ---
 
