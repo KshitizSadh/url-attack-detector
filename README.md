@@ -58,7 +58,7 @@ Perfect for users who want to get started quickly without installing dependencie
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/url-attack-detector.git
+git clone https://github.com/KshitizSadh/url-attack-detector.git
 cd url-attack-detector
 
 # 2. Start the application
@@ -85,7 +85,7 @@ sudo apt-get update
 sudo apt-get install -y tshark
 
 # 2. Clone the repository
-git clone https://github.com/yourusername/url-attack-detector.git
+git clone https://github.com/KshitizSadh/url-attack-detector.git
 cd url-attack-detector
 
 # 3. Create virtual environment
