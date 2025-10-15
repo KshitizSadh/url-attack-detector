@@ -149,6 +149,11 @@ Click **"Export CSV"** to download a detailed report for:
 <img width="484" height="734" alt="image" src="https://github.com/user-attachments/assets/37989043-db17-46e7-abb0-892cbeb753d3" />
 
 ---
+## Demo Video
+
+
+https://github.com/user-attachments/assets/9eb01307-ea87-4121-ba1f-d1e8c0583d6e
+
 
 ## 📊 Understanding the Dashboard
 
